@@ -4,6 +4,7 @@
   --color-accent: #ff3400;
   --color-headings: #1b0760;
   --color-body: #918ca4;
+<<<<<<< HEAD
 }
 
 /* Typography */
@@ -121,4 +122,6 @@ a {
   .badge--small {
     font-size: 1.2rem;
   }
+=======
+>>>>>>> 61a6dd4504a05bc3d9bb89373e1b3a5b33554533
 }
